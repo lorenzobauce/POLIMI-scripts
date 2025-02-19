@@ -11,4 +11,3 @@ for i in grades:
         print("Good")
     elif i >= 28 and i <= 30:
         print("Excellent")
-    
